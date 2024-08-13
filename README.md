@@ -1,6 +1,6 @@
 Project Layout #1
 
-Link: https://nutritionist.intita.com](https://oksanabartash.github.io/project_Layout_1/
+Link: https://oksanabartash.github.io/project_Layout_1/
 
 This is a future website that offers services to cline our planet.
 I made it myself.
